@@ -3,7 +3,8 @@ const siteMetadata = {
   title: 'The10XWriter Blog',
   author: 'Yinka Okunlola',
   headerTitle: 'The10XWriterBlog',
-  description: 'Stay ahead with the latest insights on AI-driven research, writing techniques, and productivity hacks. Whether you are a student, academic, blogger, or professional writer, we bring you tools and techniques to to make your writing easier and faster. We provide information to help you research, write, and optimize content faster and more effectively.',
+  description:
+    'Stay ahead with the latest insights on AI-driven research, writing techniques, and productivity hacks. Whether you are a student, academic, blogger, or professional writer, we bring you tools and techniques to to make your writing easier and faster. We provide information to help you research, write, and optimize content faster and more effectively.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://the10xwriter.vercel.app',
@@ -30,22 +31,22 @@ const siteMetadata = {
     // content security policy in the `next.config.js` file.
     // supports Plausible, Simple Analytics, Umami, Posthog or Google Analytics.
     //umamiAnalytics: {
-      // We use an env variable for this site to avoid other users cloning our analytics ID
-      //umamiWebsiteId: process.env.NEXT_UMAMI_ID, // e.g. 123e4567-e89b-12d3-a456-426614174000
-      // You may also need to overwrite the script if you're storing data in the US - ex:
-      // src: 'https://us.umami.is/script.js'
-      // Remember to add 'us.umami.is' in `next.config.js` as a permitted domain for the CSP
-    },
-    // plausibleAnalytics: {
-    //   plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
-    // If you are hosting your own Plausible.
-    //   src: '', // e.g. https://plausible.my-domain.com/js/script.js
-    // },
-    // simpleAnalytics: {},
-    // posthogAnalytics: {
-    //   posthogProjectApiKey: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
-    // },
-    googleAnalytics: {
+    // We use an env variable for this site to avoid other users cloning our analytics ID
+    //umamiWebsiteId: process.env.NEXT_UMAMI_ID, // e.g. 123e4567-e89b-12d3-a456-426614174000
+    // You may also need to overwrite the script if you're storing data in the US - ex:
+    // src: 'https://us.umami.is/script.js'
+    // Remember to add 'us.umami.is' in `next.config.js` as a permitted domain for the CSP
+  },
+  // plausibleAnalytics: {
+  //   plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
+  // If you are hosting your own Plausible.
+  //   src: '', // e.g. https://plausible.my-domain.com/js/script.js
+  // },
+  // simpleAnalytics: {},
+  // posthogAnalytics: {
+  //   posthogProjectApiKey: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
+  // },
+  googleAnalytics: {
     googleAnalyticsId: 'G-8VPF68RLL0', // e.g. G-XXXXXXX
     // },
   },
