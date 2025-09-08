@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'The10XWriter Blog',
   author: 'Yinka Okunlola',
   headerTitle: 'The10XWriterBlog',
-  description: 'Research & Write Smarter with AI-Powered Tools',
+  description: 'Stay ahead with the latest insights on AI-driven research, writing techniques, and productivity hacks. Whether you are a student, academic, blogger, or professional writer, we bring you tools and techniques to to make your writing easier and faster. We provide information to help you research, write, and optimize content faster and more effectively.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://the10xwriter.vercel.app',
@@ -19,7 +19,7 @@ const siteMetadata = {
   youtube: 'https://www.youtube.com/@yinkaokunlola2126',
   linkedin: 'https://www.linkedin.com/in/yinka-okunlola/',
   //threads: 'https://www.threads.net',
-  instagram: 'https://www.instagram.com/yinka.okunlola/',
+  instagram: 'https://www.instagram.com/the10xwriter/',
   //medium: 'https://medium.com',
   //bluesky: 'https://bsky.app/',
   locale: 'en-US',
