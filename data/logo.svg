@@ -2,15 +2,13 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
   viewBox="0 0 512 256"
-  width="54"
-  height="45"
   preserveAspectRatio="xMidYMid meet"
 >
   <image
     href="/static/images/logo.png"
     x="0"
     y="0"
-    width="512"
-    height="256"
+    width="500"
+    height="405"
   />
 </svg>
