@@ -4,7 +4,7 @@ const siteMetadata = {
   author: 'Yinka Okunlola',
   headerTitle: 'The10XWriterBlog',
   description:
-    'Stay ahead with the latest insights on AI-driven research, writing techniques, and productivity hacks. Whether you are a student, academic, blogger, or professional writer, we bring you tools and techniques to to make your writing easier and faster. We provide information to help you research, write, and optimize content faster and more effectively.',
+    'Stay ahead with the latest insights on AI-driven research, writing techniques, and productivity hacks. This blog helps students, academics, bloggers, or professional writers make good use of tools and techniques that makes writing easier and faster.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://the10xwriter.vercel.app',
