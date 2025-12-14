@@ -1,27 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  viewBox="344.5639097744361 330.27819548872174 111.73684210526318 91.21804511278197"
+  viewBox="0 0 512 256"
   width="54"
   height="45"
   preserveAspectRatio="xMidYMid meet"
 >
-  <defs>
-    <path d="M453.3 331.28L453.3 359.85L388.64 418.5L388.64 388.42L453.3 331.28Z" id="shape1"/>
-    <linearGradient id="grad1" x1="420.97" y1="331.28" x2="420.97" y2="418.5">
-      <stop offset="0%" stop-color="#06b6d4"/>
-      <stop offset="100%" stop-color="#67e8f9"/>
-    </linearGradient>
-
-    <path d="M410.23 331.28L410.23 359.85L345.56 418.5L345.56 388.42L410.23 331.28Z" id="shape2"/>
-    <linearGradient id="grad2" x1="377.89" y1="331.28" x2="377.89" y2="418.5">
-      <stop offset="0%" stop-color="#06b6d4"/>
-      <stop offset="100%" stop-color="#67e8f9"/>
-    </linearGradient>
-  </defs>
-
-  <g>
-    <use href="#shape1" fill="url(#grad1)" />
-    <use href="#shape2" fill="url(#grad2)" />
-  </g>
+  <image
+    href="/logo.png"
+    x="0"
+    y="0"
+    width="512"
+    height="256"
+  />
 </svg>
