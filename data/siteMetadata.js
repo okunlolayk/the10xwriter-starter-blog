@@ -27,6 +27,8 @@ const siteMetadata = {
   // set to true if you want a navbar fixed to the top
   stickyNav: true,
   analytics: {
+      googleAnalytics: {
+    googleAnalyticsId: 'G-8VPF68RLL0', // e.g. G-XXXXXXX },
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // supports Plausible, Simple Analytics, Umami, Posthog or Google Analytics.
@@ -46,9 +48,6 @@ const siteMetadata = {
   // posthogAnalytics: {
   //   posthogProjectApiKey: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
   // },
-  googleAnalytics: {
-    googleAnalyticsId: 'G-8VPF68RLL0', // e.g. G-XXXXXXX
-    // },
   },
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus, beehive
